@@ -23,5 +23,5 @@ cfg.blacklist = { -- vehicles that will always be locked when spawned naturally
 
 cfg.job_whitelist = {
   "police",
-  "EMS"
+  "ambulance"
 }
